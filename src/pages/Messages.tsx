@@ -29,6 +29,7 @@ type ParsedMessage = {
     replyToId?: string;
     isPinned?: boolean;
     isStarred?: boolean;
+    isDeleted?: boolean;
   };
 };
 
