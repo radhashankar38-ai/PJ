@@ -1,0 +1,10 @@
+{
+  "name": "PJ",
+  "description": "A public journal application for sharing experiences with liking, commenting, and real-time chat.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
